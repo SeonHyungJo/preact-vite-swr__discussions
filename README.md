@@ -1,4 +1,4 @@
-# preact, vite : discussions
+# preact, vite, swr : discussions
 
 오늘은 React를 사용하거나 사용해보고 싶었던 분들이 관심을 가지고 다같이 실력을 키울 수 있는 공간이 되었으면 한다.
 
